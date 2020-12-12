@@ -81,6 +81,10 @@ input {
   outline: none;
 }
 
+#alert {
+  color: red;
+}
+
 /* Button */
 button {
   width: 100%;
